@@ -1,0 +1,1 @@
+cmd_/home/omi/Documents/Module_Programs/Hello_World/hello_world.mod := { echo  /home/omi/Documents/Module_Programs/Hello_World/hello_world.o; echo; } > /home/omi/Documents/Module_Programs/Hello_World/hello_world.mod
