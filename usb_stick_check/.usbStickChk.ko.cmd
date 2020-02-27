@@ -1,0 +1,1 @@
+cmd_/home/omi/Documents/module_programs/usb_stick_check/usbStickChk.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/omi/Documents/module_programs/usb_stick_check/usbStickChk.ko /home/omi/Documents/module_programs/usb_stick_check/usbStickChk.o /home/omi/Documents/module_programs/usb_stick_check/usbStickChk.mod.o ;  true
