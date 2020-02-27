@@ -7,5 +7,7 @@
 	> sudo modprobe -r uas **usb_storage**
 - To insert the module
 	> sudo insmod usbStickChk.ko
+- To view messages
+	> dmesg
 - To remove the module
 	> sudo rmmod usbStickChk.ko
