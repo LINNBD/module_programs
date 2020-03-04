@@ -1,0 +1,1 @@
+cmd_/home/omi/Documents/module_programs/ulocker/ulocker.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/omi/Documents/module_programs/ulocker/ulocker.ko /home/omi/Documents/module_programs/ulocker/ulocker.o /home/omi/Documents/module_programs/ulocker/ulocker.mod.o ;  true
