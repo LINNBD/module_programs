@@ -27,6 +27,7 @@ __used
 __attribute__((section(".modinfo"))) =
 "depends=";
 
+MODULE_ALIAS("usb:v058Fp6387d*dc*dsc*dp*ic*isc*ip*in*");
 MODULE_ALIAS("usb:v8564p1000d*dc*dsc*dp*ic*isc*ip*in*");
 
-MODULE_INFO(srcversion, "4DB49CF029299C8917B94A3");
+MODULE_INFO(srcversion, "7F08FC931B0BB446442F2E5");
